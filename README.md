@@ -22,9 +22,9 @@ I’m passionate about building scalable mobile applications, machine learning m
 ---
 
 ## 📌 Featured Projects
-- 🎵 [**Spotify Clone**](https://github.com/username/spotify-clone) – Music streaming app with user authentication & uploading  
-- 🎥 [**Netflix Clone**](https://github.com/username/netflix-clone) – Video streaming platform using React & Firebase  
-- 🐾 [**Animal Species Detection**](https://github.com/username/animal-species-detection) – ML-powered Android app to classify animal species  
+- 🎵 [**Spotify Clone**](https://github.com/Maus-313/spotify-clone) – Music streaming app with user authentication & uploading  
+- 🎥 [**Netflix Clone**](https://github.com/Maus-313/netflix-clone) – Video streaming platform using React & Firebase  
+- 🐾 [**Animal Species Detection**](https://github.com/Maus-313/animal-species-detection) – ML-powered Android app to classify animal species  
 
 ---
 
@@ -35,9 +35,9 @@ I’m passionate about building scalable mobile applications, machine learning m
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome)](https://your-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/umar313/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome)](https://www.umardrinkwater.com)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mohdumar.dev@gmail.com)  
 
 ---
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
