@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Umar Khan 👋  
 
-<!--
-**Maus-313/Maus-313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Android & ML Developer | Problem Solver**  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable mobile applications, machine learning models, and solving challenging problems in **Java**, **Kotlin**, and **Python**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Currently working on:
+- 📱 **Android apps** with Jetpack Compose
+- 🤖 Machine Learning models for image classification
+- ⚡ Optimized algorithms for competitive programming
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Java, Kotlin, Python, JavaScript  
+**Mobile:** Android (Jetpack Compose, MVVM)  
+**Backend:** Node.js, Express  
+**Databases:** MySQL, Firebase, MongoDB  
+**ML/DL:** TensorFlow, Scikit-learn, OpenCV  
+**Tools:** Git, GitHub, Docker, Postman  
+
+---
+
+## 📌 Featured Projects
+- 🎵 [**Spotify Clone**](https://github.com/username/spotify-clone) – Music streaming app with user authentication & uploading  
+- 🎥 [**Netflix Clone**](https://github.com/username/netflix-clone) – Video streaming platform using React & Firebase  
+- 🐾 [**Animal Species Detection**](https://github.com/username/animal-species-detection) – ML-powered Android app to classify animal species  
+
+---
+
+## 📈 GitHub Stats
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome)](https://your-portfolio.com)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your.email@example.com)  
+
+---
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
