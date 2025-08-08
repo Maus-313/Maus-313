@@ -35,7 +35,7 @@ I’m passionate about building scalable mobile applications, machine learning m
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/umar313/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/umar313/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome)](https://www.umardrinkwater.com)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mohdumar.dev@gmail.com)  
 
