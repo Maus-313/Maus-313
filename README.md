@@ -29,8 +29,8 @@ I’m passionate about building scalable mobile applications, machine learning m
 ---
 
 ## 📈 GitHub Stats
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maus-313&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maus-313&layout=compact&theme=tokyonight)  
 
 ---
 
